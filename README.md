@@ -32,8 +32,3 @@ Generative AI Models | LLMs | Video Diffusion Models | Prompt Engineering | Stra
 
 **Varri Ashish Nadh** | ECE Graduate, AI & ML Specialization | GITAM University
 Linkedin: linkedin.com/in/ashishnadhvarri | GitHub: github.com/Ashish3692003
-
----
-
-**Project Type**: GenAI Marketing | Multimodal AI | Content Automation
-**Created**: March 2026
