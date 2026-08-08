@@ -32,4 +32,5 @@ Generative AI Models | LLMs | Video Diffusion Models | Prompt Engineering | Stra
 ## Author
 
 **Varri Ashish Nadh** | ECE Graduate, AI & ML Specialization | GITAM University
-Linkedin: linkedin.com/in/ashishnadhvarri | GitHub: github.com/Ashish3692003 | ['detail project document']https://docs.google.com/document/d/1TQD5RPwdFLDhX9uHfRcmRgX-I6-QIh674flXeIlR2Ww/edit?usp=sharing
+Linkedin: linkedin.com/in/ashishnadhvarri | GitHub: github.com/Ashish3692003 | [`detail project document`](https://docs.google.com/document/d/1TQD5RPwdFLDhX9uHfRcmRgX-I6-QIh674flXeIlR2Ww/edit?usp=sharing)
+
