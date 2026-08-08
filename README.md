@@ -5,7 +5,8 @@
 ## What It Does
 
 AeroStep is a proof-of-concept system that generates a full cinematic teaser video (19 seconds, 16:9, 1080p HD) using multimodal generative AI models. The pipeline covers concept ideation, scene mapping, prompt chaining, video synthesis, and performance evaluation — all automated through foundation models.
-AeroStep Video Link: https://drive.google.com/file/d/1IxvDLvMxRqCcXaME6WQ4_dvCZ2vB1i9H/view?usp=sharing
+[`AeroStep Video Link`](https://drive.google.com/file/d/1IxvDLvMxRqCcXaME6WQ4_dvCZ2vB1i9H/view?usp=sharing)
+
 
 ## The Challenge
 
