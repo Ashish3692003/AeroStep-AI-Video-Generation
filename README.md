@@ -16,7 +16,7 @@ Traditional commercial video production is constrained by severe operational and
 ### The Solution: AeroStep Pipeline
 AeroStep establishes an engineered generative workflow that delivers an enterprise-ready commercial spot in under 2 hours. By decoupling visual keyframe synthesis, rigid-body motion dynamics, and acoustic synthesis into an orchestrated pipeline, AeroStep achieves high brand consistency without product hallucination.
 
-```
+
 ```mermaid
 flowchart TD
     %% Stage 1: Strategy & Ingestion
