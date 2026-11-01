@@ -101,7 +101,7 @@ cityscape at night, bokeh effect, shot on Sony A7R IV, 50mm lens, f/2.8, volumet
 8k ultra-detailed, hyper-realistic commercial advertisement 
 --no text, no watermark, no hands, no human, no distortion, no extra soles
 ```
-*(Source: Ashish_AIVideo_Document)*
+
 
 ### B. Rigid-Body Motion Control (Hailuo AI)
 To constrain diffusion motion vectors and prevent the shoe from warping during motion synthesis:
@@ -111,14 +111,14 @@ To constrain diffusion motion vectors and prevent the shoe from warping during m
   Slow cinematic cameras orbit around the floating sneaker. The shoe remains rigid and stationary 
   in the center. Atmospheric smoke swirls slowly in the background. Smooth parallax effect. High fidelity.
   ```
-  *(Source: Ashish_AIVideo_Document)*
+ 
 
 * **Dynamic Kinetic Shot:**
   ```text
   Dynamic tracking camera movement following the runner. Fast horizontal motion. 
   The sparks fly realistically. Maintain consistency of the shoe design.
   ```
-  *(Source: Ashish_AIVideo_Document)*
+ 
 
 ### C. Acoustic Cadence & Timing Architecture (ElevenLabs SSML)
 Custom Speech Synthesis Markup Language (SSML) tags were injected to synchronize audio pacing with visual cuts:
@@ -134,7 +134,7 @@ Custom Speech Synthesis Markup Language (SSML) tags were injected to synchronize
   AeroStep. Defy Everything.
 </speak>
 ```
-*(Source: Ashish_AIVideo_Document)*
+
 
 ---
 
@@ -150,26 +150,10 @@ Custom Speech Synthesis Markup Language (SSML) tags were injected to synchronize
 
 ---
 
-## 7. Project Deliverables & Media Assets
+## 7. Project Details
 
 * **Final Video Asset:** [Varri_AeroStep_BrandVideo_Final.mp4](Varri_AeroStep_BrandVideo_Final.mp4)
 * **Comprehensive Strategy Document:** [Ashish_AIVideo_Document](https://docs.google.com/document/d/1TQD5RPwdFLDhX9uHfRcmRgX-I6-QIh674flXeIlR2Ww/edit?tab=t.0)
-* **Repository Architecture:**
-  ```
-  .
-  ├── assets/
-  │   ├── keyframes/               # Raw Flux.2 generated source assets
-  │   ├── audio/                   # ElevenLabs voice tracks with SSML config
-  │   └── final_render/            # 1080p HD finished commercial spot
-  ├── prompts/
-  │   ├── visual_prompts.json      # Camera settings, lighting, and negative prompts
-  │   ├── motion_prompts.json      # Hailuo camera control and trajectory constraints
-  │   └── voice_ssml_script.xml    # Synchronized SSML voice script
-  ├── docs/
-  │   └── AeroStep_Strategy.pdf    # Full ABCD framework and evaluation breakdown
-  └── README.md
-  ```
-
 ---
 
 ## 8. Author 
