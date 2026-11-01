@@ -1,10 +1,5 @@
 # AeroStep: Multimodal Generative AI Video Production Pipeline
 
-[![Pipeline-Status](https://img.shields.io/badge/Pipeline-Production--Ready-brightgreen?style=flat-square)](#)
-[![Model-Flux2](https://img.shields.io/badge/Visual_Diffusion-Flux.2_Dev-blueviolet?style=flat-square)](#)
-[![Model-Hailuo](https://img.shields.io/badge/Video_Diffusion-Hailuo_AI_(MiniMax)-blue?style=flat-square)](#)
-[![Audio-ElevenLabs](https://img.shields.io/badge/Voice_Synthesis-ElevenLabs_(SSML)-orange?style=flat-square)](#)
-[![Strategic-Framework](https://img.shields.io/badge/Framework-Google_ABCD-red?style=flat-square)](#)
 
 > An end-to-end autonomous multimodal AI production framework translating structured brand strategy into a high-fidelity, 1080p cinematic commercial teaser. Demonstrates prompt chaining, rigid-body physics control in video diffusion, and acoustic cadence engineering.
 
