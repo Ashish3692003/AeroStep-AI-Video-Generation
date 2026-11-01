@@ -150,7 +150,7 @@ Custom Speech Synthesis Markup Language (SSML) tags were injected to synchronize
 
 ## 7. Project Details
 
-* **Final Video Asset:** [Varri_AeroStep_BrandVideo_Final.mp4](https://drive.google.com/file/d/1IxvDLvMxRqCcXaME6WQ4_dvCZ2vB1i9H/view?usp=sharing))
+* **Final Video Asset:** [Varri_AeroStep_BrandVideo_Final.mp4](https://drive.google.com/file/d/1IxvDLvMxRqCcXaME6WQ4_dvCZ2vB1i9H/view?usp=sharing)
 * **Comprehensive Strategy Document:** [Ashish_AIVideo_Document](https://docs.google.com/document/d/1TQD5RPwdFLDhX9uHfRcmRgX-I6-QIh674flXeIlR2Ww/edit?tab=t.0)
 ---
 
